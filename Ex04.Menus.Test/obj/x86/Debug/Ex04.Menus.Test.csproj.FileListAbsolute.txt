@@ -1,0 +1,10 @@
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.exe
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\obj\x86\Debug\Ex04.Menus.Test.pdb
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Test\bin\Debug\Ex02.ConsoleUtils.dll

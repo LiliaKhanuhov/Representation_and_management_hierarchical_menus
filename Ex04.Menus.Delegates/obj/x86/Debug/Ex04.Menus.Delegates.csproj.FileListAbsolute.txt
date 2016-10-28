@@ -1,0 +1,5 @@
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Delegates\obj\x86\Debug\Ex04.Menus.Delegates.dll
+c:\users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Delegates\obj\x86\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\lilia\documents\visual studio 2010\Projects\B14 Ex04 Vasili 321464935 Lilia 326958568\Ex04.Menus.Delegates\bin\Debug\Ex02.ConsoleUtils.dll
